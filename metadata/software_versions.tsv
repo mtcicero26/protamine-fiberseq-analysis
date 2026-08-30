@@ -1,0 +1,25 @@
+category	software	version
+reference assembly	GRCh38	GRCh38.p14 / GCF_000001405.40
+gene annotation	NCBI RefSeq	GCF_000001405.40-RS_2023_10
+personal assembly	HG002	hg002v1.1a
+centromere annotation	CenSatData	v2.0-compatible HG002 annotations
+analysis	Python	3.10
+analysis	numpy	2.2.6
+analysis	pandas	2.3.3
+analysis	scipy	1.15.2
+analysis	matplotlib	3.10.1
+analysis	adjustText	1.3.0
+optional	pyarrow	23.0.1
+optional	gseapy	1.2.1
+alignment	pbmm2	1.17.0
+modification calling	fibertools-rs	0.6.0
+modification calling	pb-CpG-tools	3.0.0
+footprint calling	FiberHMM	1.4
+interval operations	BEDTools	2.30.0
+motif scanning	pyjaspar	3.0.0
+motif scanning	Biopython	1.85
+motif scanning	pyfaidx	0.8.1.4
+FiberFormer	PyTorch	2.10.0
+FiberFormer	umap-learn	0.5.6
+FiberFormer	scikit-learn	1.5
+general	samtools	1.21

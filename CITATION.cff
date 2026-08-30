@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript and archived software release."
+title: "Analysis code for single-molecule Fiber-seq maps of sperm chromatin"
+type: software
+authors:
+  - family-names: Stergachis
+    given-names: Andrew B.
+  - family-names: Lesch
+    given-names: Bluma J.
+  - family-names: Tullius
+    given-names: Tommy
+version: 1.0.0
+date-released: 2026-08-30
+license: MIT
+repository-code: "https://github.com/mtcicero26/protamine-fiberseq-analysis"
+keywords:
+  - Fiber-seq
+  - sperm chromatin
+  - protamine
+  - reproducible research

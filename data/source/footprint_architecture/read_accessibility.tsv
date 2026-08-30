@@ -1,0 +1,3 @@
+category	n_reads	n_reads_total	pct_reads	ci95_low	ci95_high	sample_seed
+one_or_more_lacunae	666545	1000000	66.6545	66.5618	66.7466	42
+fully_inaccessible	333455	1000000	33.345499999999994	33.2534	33.438199999999995	42

@@ -1,0 +1,41 @@
+mark	vol_cat	chrom_cat	n	pct
+in_K4me3_sperm	enriched	FIRE only	4	0.8350730688935281
+in_K4me3_sperm	enriched	FIRE × mark	380	79.33194154488518
+in_K4me3_sperm	enriched	mark only	73	15.24008350730689
+in_K4me3_sperm	enriched	neither	22	4.592901878914405
+in_K4me3_sperm	not_sig	FIRE only	585	1.4057431214706235
+in_K4me3_sperm	not_sig	FIRE × mark	19312	46.40634386639433
+in_K4me3_sperm	not_sig	mark only	9428	22.655292562777845
+in_K4me3_sperm	not_sig	neither	12290	29.532620449357204
+in_K27me3_sperm	enriched	FIRE only	102	21.29436325678497
+in_K27me3_sperm	enriched	FIRE × mark	282	58.872651356993735
+in_K27me3_sperm	enriched	mark only	72	15.031315240083506
+in_K27me3_sperm	enriched	neither	23	4.801670146137787
+in_K27me3_sperm	not_sig	FIRE only	7559	18.164123513156312
+in_K27me3_sperm	not_sig	FIRE × mark	12338	29.64796347470864
+in_K27me3_sperm	not_sig	mark only	7741	18.601465817613843
+in_K27me3_sperm	not_sig	neither	13977	33.586447194521206
+in_bivalent_curated	enriched	FIRE only	107	22.33820459290188
+in_bivalent_curated	enriched	FIRE × mark	277	57.82881002087683
+in_bivalent_curated	enriched	mark only	67	13.987473903966595
+in_bivalent_curated	enriched	neither	28	5.845511482254697
+in_bivalent_curated	not_sig	FIRE only	8328	20.01201489847411
+in_bivalent_curated	not_sig	FIRE × mark	11569	27.80007208939084
+in_bivalent_curated	not_sig	mark only	6060	14.562056950618768
+in_bivalent_curated	not_sig	neither	15658	37.62585606151628
+in_K27ac_RS	enriched	FIRE only	232	48.43423799582464
+in_K27ac_RS	enriched	FIRE × mark	152	31.732776617954077
+in_K27ac_RS	enriched	mark only	10	2.0876826722338206
+in_K27ac_RS	enriched	neither	85	17.745302713987474
+in_K27ac_RS	not_sig	FIRE only	10507	25.24810765349033
+in_K27ac_RS	not_sig	FIRE × mark	9390	22.563979334374626
+in_K27ac_RS	not_sig	mark only	1644	3.950498618286676
+in_K27ac_RS	not_sig	neither	20074	48.23741439384837
+in_K27ac_sperm	enriched	FIRE only	374	78.07933194154488
+in_K27ac_sperm	enriched	FIRE × mark	10	2.0876826722338206
+in_K27ac_sperm	enriched	mark only	2	0.417536534446764
+in_K27ac_sperm	enriched	neither	93	19.41544885177453
+in_K27ac_sperm	not_sig	FIRE only	18710	44.95975009011174
+in_K27ac_sperm	not_sig	FIRE × mark	1187	2.8523368977532138
+in_K27ac_sperm	not_sig	mark only	1138	2.7345908927069567
+in_K27ac_sperm	not_sig	neither	20580	49.45332211942809

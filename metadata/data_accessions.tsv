@@ -1,0 +1,8 @@
+resource	accession	repository	access
+study sequencing data	GSE310360	NCBI GEO	pending public release
+study sequencing project	PRJNA1346452	NCBI BioProject	pending public release
+SMaHT Benchmarking	phs004193	dbGaP	controlled
+SMaHT Production	phs004104	dbGaP	controlled
+FiberFormer model and software	https://github.com/mtcicero26/fiberformer	GitHub	public
+CenSat annotations	https://github.com/hloucks/CenSatData	GitHub	public
+motif catalog	JASPAR 2024 CORE vertebrates	JASPAR	public
